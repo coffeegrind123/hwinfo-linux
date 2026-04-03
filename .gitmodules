@@ -1,0 +1,3 @@
+[submodule "vendor/remotehwinfo"]
+	path = vendor/remotehwinfo
+	url = https://github.com/Demion/remotehwinfo.git
